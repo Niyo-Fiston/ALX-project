@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>
+      Premier League News 
+    </title>
+    <meta charset="UTF-8">
+    <link href="https://alx-apply.hbtn.io/level2/school.css" rel="stylesheet">
+    <link href="styles.css" rel="stylesheet">
+    <script src="behavior.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  </head>
+  <body class="works_on_smartphone">
+
+    <script>
+      window.twttr = (function (d, s, id) {
+      var js,
+      fjs = d.getElementsByTagName(s)[0],
+      t = window.twttr || {};
+      if (d.getElementById(id)) return t;
+      js = d.createElement(s);
+      js.id = id;
+      js.src = "https://platform.twitter.com/widgets.js";
+      fjs.parentNode.insertBefore(js, fjs);
+
+      t._e = [];
+      t.ready = function (f) {
+      t._e.push(f);
+      };
+
+      return t;
+      })(document, "script", "twitter-wjs");
+          </script>
+    
+    <header>
+
+      <div class="right">
+	<iframe src="https://www.facebook.com/plugins/share_button.php?
+		     href=http%3A%2F%2F3.236.112.174%2Findex.html&layout=button_count&size=small&width=77&height=20&appId"
+		width="77"
+		height="20"
+		style="border:none;overflow:hidden"
+		scrolling="no"
+		frameborder="0"
+		allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share">
+	</iframe>
+
+
+	<a class="twitter-share-button"
+	   href="https://twitter.com/intent/tweet?text=http://3.236.112.174/">
+	  Tweet
+	</a>
+
+	</div>
+	
+	<ul>
+	  <li><a href="#"> <img src="https://1000logos.net/wp-content/uploads/2017/05/Premier_League_logo_PNG2.png" width="100" alt=""></a></li>
+	  <li class="lifi"><a href="#">Home</a></li>
+	  <li class="lifi"><a href="./tweets.html">Tweets</a></li>
+	  <li class="lifi"><a href="./contact.html">Contact Us</a></li>
+	  <li class="lifi"><a href="./about.html">About</a></li>
+	</ul>
+    </header>
+
+    <main>
+
+      <article>
+	<h1 class="contactfi">Premier League News</h1>
+      <article>
+	  <h2>Manchester  City crowned 2020-2021 premier league champions</h2>
+
+	  <p>Manchester City have been crowned 2020-21 Premier League champions, their third title success in the last four years.
+	    Manchester United’s defeat to Leicester on Tuesday means they now have an unassailable lead after 35 games.
+	    It is Guardiola’s 10th major honour since taking charge at City in 2016, and it comes a week after they booked their place in the UEFA Champions League final at the end of the month with a 4-1 aggregate victory over Paris Saint-Germain.
+	    In a season like no other, one which has been significantly affected by the Coronavirus pandemic, City have shown remarkable consistency in turbulent times, overcoming a gruelling fixture schedule by heavily rotating the squad to ensure every player has played a part in this success.
+	    </p>
+	    <a href="https://www.mancity.com/news/mens/manchester-city-premier-league-champions-63756355">
+	      <img src="https://e0.365dm.com/21/05/1600x900/skysports-man-city-champions_5377680.png?20210511104341" alt="">
+	        </a>
+	</article>
+	
+	<article>
+	  <h2>Thomas Tuchel insists top-four race is not over after Chelsea avenge FA Cup final defeat to Leicester</h2>
+	  <h4>Thomas Tuchel hailed Chelsea's "outstanding" performance as they avenged their FA Cup final defeat to Leicester with a 2-1 victory in the Premier League but insisted "the job is not done yet" in the race for a top-four finish.</h4>
+	 
+	  <p>Chelsea dominated the game in front of 8,000 buoyant supporters at Stamford Bridge, taking a two-goal lead thanks to Jorginho's penalty and Antonio Rudiger's close-range finish then surviving a nervy finale after Kelechi Iheanacho had pulled one back.</p>
+	  <a href="https://www.skysports.com/football/news/11661/12310090/thomas-tuchel-insists-top-four-race-is-not-over-after-chelsea-avenge-fa-cup-final-defeat-to-leicester">
+	    <img src="https://sportshub.cbsistatic.com/i/2021/05/18/e6651ec5-64f5-4fe3-bf0f-7b9aa8e30da6/chelsea-celebrate-1.png" alt="">
+	  </a>
+	  <p>click the Image</p>
+	   <img id="smart_thumbnail"  class="small" src="https://images2.minutemediacdn.com/image/fetch/w_850,h_560,c_fill,g_auto,f_auto/https%3A%2F%2Ftheprideoflondon.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2020%2F07%2F1257074334-850x560.jpeg" alt="">
+	</article>
+
+	<article>
+	  <h2>Roy Hodgson stepping down as Crystal Palace manager at age 73</h2>
+	  <a href="https://www.sportsnet.ca/soccer/article/roy-hodgson-stepping-crystal-palace-manager-age-73/">
+	    <img src="https://www.sportsnet.ca/wp-content/uploads/2018/08/hodgson.jpg" alt="">
+	      </a>.
+	  <p>LONDON -- Roy Hodgson, the Premier League's oldest manager at 73, is leaving his role at Crystal Palace at the end of the season after four years at the club.</p>
+
+	   <p> Hodgson did not disclose what the next step in his career would be, but said Tuesday he is ready to stop being a "full-time manager."</p>
+
+	    <p>"After more than 45 years of coaching, I have decided that the time is right for me to step away from the rigors of top-flight Premier League football," the much-traveled Hodgson said.</p>
+
+	    <p>The former England coach's last game in charge of Palace, which is safe from relegation, will be against Liverpool -- one of his many old clubs -- at Anfield on Sunday.</p>
+
+	    <p>"I have had so much support from my wife and family throughout my career and I have been contemplating this decision for some time," Hodgson said, "and now I believe the time is right to consider them and to see what the future holds for me."</p>
+
+	    <p>Hodgson joined Palace, the team he supported as a child, in September 2017 for his first job since ending his spell as England coach. The south London club was in last place in the league at the time after losing all four of its opening games that season under Frank de Boer, but Hodgson managed to keep Palace in England's lucrative top division and again in the following three seasons.</p>
+	  
+	</article>
+
+	<article>
+	  <h2>The secret to unlocking Timo Werner - 'He needs to be in a comfort zone with a coach who understands him'</h2>
+	  <a href="https://www.telegraph.co.uk/football/2021/05/21/secret-unlocking-timo-werner-needs-comfort-zone-coach-understands/">
+	    <img src="https://www.telegraph.co.uk/content/dam/football/2021/05/21/TELEMMGLPICT000258997088_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg?imwidth=960" alt="">
+	  </a>
+	  <p>Timo Werner was once again forced to put on a brave face. After a gruelling 90 minutes of football against Leicester City that had seen him lose a goal to an offside flag and then a second to a Var handball call, the Chelsea striker could do nothing but smirk. "I think it's been the unluckiest season I've ever had," he muttered with a forced smile.</p>
+
+	  <p>Chelsea fans may be inclined to agree. Unlike some Stamford Bridge duds from the past, Werner has not struggled to keep up with the pace of the game or find space in the box for his new club. If anything, each outing for Thomas Tuchel’s side tends to descend into a montage of the German international doing all of the hard work with ease and then, somehow, failing to apply a finishing touch</p>
+	  
+	</article>
+
+      </article>
+      
+      <aside>
+	<div id="disqus_thread"></div>
+	<script>
+	  /**
+	  *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+	  *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+	  /*
+	  var disqus_config = function () {
+	  this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+	  this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+	  };
+	  */
+	  (function() { // DON'T EDIT BELOW THIS LINE
+	  var d = document, s = d.createElement('script');
+	  s.src = 'https://http-3-236-112-174.disqus.com/embed.js';
+	  s.setAttribute('data-timestamp', +new Date());
+	  (d.head || d.body).appendChild(s);
+	  })();
+	</script>
+	<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+	
+      </aside>
+
+    </main>
+
+    <footer>
+      <p>Made by Fiston NIYOMUTONI for <a href="https://alx-apply.hbtn.io" target="_blank">ALX</a> &copy; 2021, All rights reserved.</p>
+    </footer>
+
+    <script id="dsq-count-scr" src="//http-3-236-112-174.disqus.com/count.js" async></script>
+
+    
+  </body>
+
+</html>

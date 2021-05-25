@@ -1,0 +1,52 @@
+
+
+.contactfi {
+    text-align: center;
+}
+body {
+    display: flex;
+    flex-direction: column;
+}
+main {
+    display: flex;
+    flex-direction: row;
+    flex: auto;
+}
+article {
+    flex: 2;
+    overflow-y:auto;
+    margin-top: 0px;
+}
+aside{
+    flex: 1;
+    overflow-y: auto;
+}
+
+input, textarea {
+    width: 100%;
+    margin-top: 10px;
+    padding: 5px 0;
+    font-size: 16px;
+    border: none;
+    border-bottom: 1px solid #00bcd4;
+    outline: none;
+    resize: none;
+}
+button {
+    width: 100px;
+    margin-top: 10px;
+    background: #00bcd4;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    padding: 10px;
+    font-size:18px;
+}
+footer {
+    border-top: 4px solid #00bcd4;
+    margin-bottom: 0px;
+}
+header {
+    border-bottom: 4px solid #00bcd4;
+    margin-bottom: 0px;
+}
