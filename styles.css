@@ -1,5 +1,13 @@
-
-
+.active{
+    border:2px solid #00bcd4;
+}
+.fist{
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
 
 
 .contactfi {
@@ -55,7 +63,6 @@ footer {
     background-color: #f5fffa;
 }
 header {
-    padding: 20px 10px;
     border-bottom: 10px solid #f5fffa;
     background-color: #f5fffa;
 }
