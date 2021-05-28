@@ -1,5 +1,7 @@
 
 
+
+
 .contactfi {
     text-align: center;
 }
@@ -11,6 +13,7 @@ main {
     display: flex;
     flex-direction: row;
     flex: auto;
+    border-left: 10px solid #f5fffa;
 }
 article {
     flex: 2;
@@ -20,6 +23,8 @@ article {
 aside{
     flex: 1;
     overflow-y: auto;
+    border-right: 10px solid #f5fffa;
+    border-left: 10px solid #f5fffa;
 }
 
 input, textarea {
@@ -32,6 +37,7 @@ input, textarea {
     outline: none;
     resize: none;
 }
+
 button {
     width: 100px;
     margin-top: 10px;
@@ -42,11 +48,17 @@ button {
     padding: 10px;
     font-size:18px;
 }
+
 footer {
-    border-top: 4px solid #00bcd4;
+    border-top: 10px solid #f5fffa;
     margin-bottom: 0px;
+    background-color: #f5fffa;
 }
 header {
-    border-bottom: 4px solid #00bcd4;
-    margin-bottom: 0px;
+    padding: 20px 10px;
+    border-bottom: 10px solid #f5fffa;
+    background-color: #f5fffa;
+}
+.lifi a:hover{
+    color: #00bcd4;
 }
