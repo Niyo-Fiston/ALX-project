@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -9,6 +10,8 @@
     <link href="styles.css" rel="stylesheet">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <script src="https://apps.elfsight.com/p/platform.js" defer></script>
+    <script src="behavior1.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   </head>
   <body class="works_on_smartphone">
 
@@ -59,15 +62,25 @@ style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscre
     <main>
       
       <article>
-	
-	<form>
-	  <h2>Send message</h2>
-	  <input type="text" name="name" placeholder="Name" required>
-	  <input type="email" name="email" placeholder="Email Adress"required>
-	  <textarea name="textarea" rows="4" cols="50" placeholder="Write your message here" required></textarea>
-	  <button class="btn" type="submit">Send</button>
+	<article>
+	<h2>Send message</h2>
+	<form method="POST" id="contact-form">
+	  <input type="text" class="name" placeholder="Name" required />
+	  <input type="email" class="email" placeholder="Email Adress" required />
+	  <textarea class="message" name="textarea" rows="4" cols="50" placeholder="Write your message here" required></textarea>
+	  <button type="submit">Send </button>
 	</form>
+
+      </article>
+
+	<article>
+	  <h6> contact us via</h6>
 	
+	  <a class="fa fa-facebook-square fa-2x" href="https://web.facebook.com/400.fiston/"></a>
+	  <a class="fa fa-instagram fa-2x" href="https://www.instagram.com/fiston_cage/"></a>
+    	  <a class="fa fa-twitter-square fa-2x" href="https://twitter.com/Niyomutonifist1"></a>
+
+      </article>
 	
 	<div class="elfsight-app-25caf670-b7a9-46ee-b9a4-a85f0bafe1f3"></div>
 	
@@ -104,6 +117,5 @@ style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscre
     </footer>
 
     <script id="dsq-count-scr" src="//http-3-236-112-174.disqus.com/count.js" async></script>
-    
   </body>
   </html>
